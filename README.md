@@ -11,6 +11,6 @@
 ### npm i 
 ### node index.js
 
-### To use it first upload the image and then you can add text in which you can ask anything about the uploaded image and then just hit submit!!
+### #To use it first upload the image and then you can add text in which you can ask anything about the uploaded image and then just hit submit!!
 
 ### I hope you like it
