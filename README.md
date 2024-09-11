@@ -5,9 +5,12 @@
 ### First, generate the API key for gemini AI and URL for mongoDB server to run the app
 
 ## For Frontend,
+### cd frontend (change directory)
 ### npm i (to install dependancies)
 ### npm start
+
 ## For Backend
+### cd backend
 ### npm i 
 ### node index.js
 
